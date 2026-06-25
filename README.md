@@ -26,6 +26,12 @@
 #### AGREGAR CONCEPTOS
 
 
+
+
+https://github.com/user-attachments/assets/c43952b0-ba72-4a1b-a363-7e121d4e4f69
+
+
+
 #### GENERAR RECIBO
 Primero seleccionamos en la parte de **Registro de Propiedades**
 Segundo seleccionamos en la parte de **Gestión de selección**
