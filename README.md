@@ -4,14 +4,14 @@
 [MUESTRA.webm](https://github.com/user-attachments/assets/22b5cf57-b232-4aee-ad4e-d6feaa45e4d6)
 
 
-### REGISTRAR DATOS EMPRESARIALES Y LOGO
+#### REGISTRAR DATOS EMPRESARIALES Y LOGO
 [Registro de Empresa y Logo.webm](https://github.com/user-attachments/assets/90002b80-c09d-4856-af8a-a601cdc057b5)
 
-### CAMBIO DE TEMA
+#### CAMBIO DE TEMA
 [Cambio de tema.webm](https://github.com/user-attachments/assets/99a06fd2-1408-4a40-a71d-ba83d2684ac5)
 
 
-### FORMATO DE SALIDA DE LOS RECIBOS
+#### FORMATO DE SALIDA DE LOS RECIBOS
 [Formato de Salida.webm](https://github.com/user-attachments/assets/35aea45c-475a-4f8b-8f68-2aacdeb1002c)
 
 ---
@@ -20,7 +20,23 @@
 [MUESTRA DE GESTION DE PROPIEDADES.webm](https://github.com/user-attachments/assets/4a0fd84a-63d4-491c-96c9-bc53d329f318)
 
 
-### AGREGAR EDIFICIO Y DEPARTAMENTO
+#### AGREGAR EDIFICIO Y DEPARTAMENTO
 [AGREGAR EDIFICIO Y DEPARTAMENTO.webm](https://github.com/user-attachments/assets/63152559-aec7-4492-9c38-b40fac4f33c8)
 
-### AGREGAR CONCEPTOS
+#### AGREGAR CONCEPTOS
+
+
+#### GENERAR RECIBO
+Primero seleccionamos en la parte de **Registro de Propiedades**
+Segundo seleccionamos en la parte de **Gestión de selección**
+[GENERAR RECIBO.webm](https://github.com/user-attachments/assets/c7119cd9-667f-4e55-b200-2150f9fb8a93)
+
+
+#### AGREGAR CONCEPTOS:
+[AGREGAR CONCEPTOS.webm](https://github.com/user-attachments/assets/7477544c-7b55-4215-a7ac-9e4dfd84ecf2)
+
+
+#### VISITA DEL PANEL DE CONTROL:
+[VISTA DE CONTROL.webm](https://github.com/user-attachments/assets/029e0148-677c-42a2-8ec5-08506cdc82fb)
+
+
