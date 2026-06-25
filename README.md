@@ -35,17 +35,35 @@ https://github.com/user-attachments/assets/c43952b0-ba72-4a1b-a363-7e121d4e4f69
 #### MAPEO DE PLANTILLA DEL RECIBO:
 https://github.com/user-attachments/assets/c43952b0-ba72-4a1b-a363-7e121d4e4f69
 
+#### GENERAR RECIBO:
+
+- Primero seleccionamos en la parte de **Registro de Propiedades**
+
+- Segundo seleccionamos en la parte de **Gestión de selección**
+
+[GENERAR RECIBO.webm](https://github.com/user-attachments/assets/c7119cd9-667f-4e55-b200-2150f9fb8a93)
+
+---
+
 
 #### VISITA DEL PANEL DE CONTROL:
 [VISTA DE CONTROL.webm](https://github.com/user-attachments/assets/029e0148-677c-42a2-8ec5-08506cdc82fb)
 
 
-
-#### GENERAR RECIBO
-Primero seleccionamos en la parte de **Registro de Propiedades**
-Segundo seleccionamos en la parte de **Gestión de selección**
-[GENERAR RECIBO.webm](https://github.com/user-attachments/assets/c7119cd9-667f-4e55-b200-2150f9fb8a93)
+#### ESTADOS DE RECIBOS: 
 
 
+[ESTADOS DE RECIBOS.webm](https://github.com/user-attachments/assets/4e5d6c2f-a56f-4afd-bd70-967e84568197)
 
 
+#### AGREGAR COSTOS DE MANTENIMIENTO:
+
+[MANTENIMIENTO Y RENDIMIENTO.webm](https://github.com/user-attachments/assets/fa5516e3-2060-423f-b9ee-7b727ffd5c37)
+
+
+#### VISTA DE RENDIMIENTO:
+
+[CONTROL DE PAGO Y RENDIMIENTO.webm](https://github.com/user-attachments/assets/b376d5e2-eb24-4a16-9bce-86be3de8b9dd)
+
+
+#### VISTA DE RESUMEN ESTADÍSTICO: 
