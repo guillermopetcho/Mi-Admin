@@ -1,5 +1,3 @@
-# Mi-Admin
-
 # 🏢 Mi-Admin
 
 ### Sistema Inteligente para la Administración de Alquileres, Propiedades y Edificios
