@@ -1,4 +1,4 @@
-# 🏢 Mi-Admin
+# 🏢 Gestor de Recibos y Control
 
 ### Sistema Inteligente para la Administración de Alquileres, Propiedades y Edificios
 
