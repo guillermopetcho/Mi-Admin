@@ -1,4 +1,4 @@
-# 🏢 Gestor de Recibos y Control
+# 🏢 Gestor de Recibos y Control: Rentix
 
 ### Sistema Inteligente para la Administración de Alquileres, Propiedades y Edificios
 
