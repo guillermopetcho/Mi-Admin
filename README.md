@@ -12,7 +12,7 @@
 
 ## 📌 Descripción
 
-**Mi-Admin** es un sistema de escritorio desarrollado para administradores de edificios, consorcios, complejos de departamentos y propietarios que necesitan gestionar alquileres de forma rápida, organizada y profesional.
+**Rentix** es un sistema de escritorio desarrollado para administradores de edificios, consorcios, complejos de departamentos y propietarios que necesitan gestionar alquileres de forma rápida, organizada y profesional.
 
 El objetivo principal del proyecto es eliminar las tareas repetitivas mediante automatización inteligente, permitiendo administrar cientos de propiedades desde una única interfaz moderna.
 
@@ -32,7 +32,7 @@ Desde la generación automática de recibos hasta el análisis financiero median
 
 ---
 
-# 🚀 Descarga Mi-Admin
+# 🚀 Descarga Rentix
 
 <p align="center">
 
@@ -68,10 +68,10 @@ Desde la generación automática de recibos hasta el análisis financiero median
 
 ### 📥 Instalación
 
-1. Haz clic en **"Descargar Mi-Admin"**.
+1. Haz clic en **"Descargar Rentix"**.
 2. Descarga el archivo desde Google Drive.
 3. Descomprime el contenido si es necesario.
-4. Ejecuta **Mi-Admin.exe**.
+4. Ejecuta **Rentix.exe**.
 5. ¡Comienza a administrar tus propiedades!
 
 > **No requiere conocimientos técnicos.** Solo descarga, ejecuta y empieza a trabajar.
